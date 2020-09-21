@@ -1,0 +1,17 @@
+CSIT-558: Data Mining
+
+Assignment on Data Preprocessing
+
+In this assignment, students will conduct preprocessing related operations on data sets using concepts studied in class such as data summarization, cleaning, integration, transformation and dimensionality reduction. Students should work with data of their choice, e.g. related to their research topics, MS project or simply their own areas of interest.
+
+Work with teams of two to three people. Collect suitable data of your choice from any online repository, e.g. UCI, Kaggle etc. This forms the given dataset for the assignment. Use any suitable implementation software, e.g. WEKA, PyTorch. Study the related documentation from the respective materials provided in the course, as well as from the websites of the respective software.  
+
+On the given dataset, execute any data preprocessing operations studied in class that help you draw preliminary inferences to help you better understand the data. You must be creative in choosing relevant operations for preprocessing. There must be at least three significant operations executed on the data set with justification, e.g. scatterplots for summarization, discretization for transformation, attribute selection for dimensionality reduction etc. Please note that all these operations must pertain to data preprocessing (with or without dimensionality reduction). So please do not execute the actual data mining techniques such as association rules, clustering and classification at this point.
+
+Please make slides as outputs of your work in this assignment and upload them on Canvas. There should be minimum 5, maximum 10 slides. The slides should include:
+
+The data set with a description of the concerned data. (3 points) 
+Execution of relevant preprocessing operations with justification: Show inputs & outputs. (10 points)
+Preliminary inferences and explanation of how this preprocessing will aid further analysis. (5 points)
+Any references used including data sources, software tools, text book etc. (2 points) 
+Please turn in the slides on the due date. Slides should be uploaded on Canvas individually by each student, even though you are working in groups.
