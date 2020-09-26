@@ -8,7 +8,7 @@ Emphasis on assignment:
     2.)Input-output documented.
     3.)Explanation on how preprocessing would help future mining. 
 SI
-
+--------------------------------------------------------------------------
 9/26/2020
 Guys free to edit these worklogs to discuss whatever it is you want, and whatever changes you make to the code. Since there is no issue on what dataset we use 
 Ill upload housing market data in california. We will preprocess the data for multiple regression prediction.  
@@ -19,4 +19,6 @@ Ill upload housing market data in california. We will preprocess the data for mu
 2.) Feature selection using l2 normalization (ridge regression). Preprocessing type :DATA REDUCTION & FEATURE SELECTION
 3.) Normalization for l2 normalization. Preprocessing type: Z-score normalization
 
+SI
+---------------------------------------------------------------------------
 
