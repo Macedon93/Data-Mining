@@ -1,0 +1,18 @@
+CSIT-558: Data Mining
+
+Assignment on Descriptive Data Mining
+
+This assignment involves implementing concepts in the realm of descriptive data mining on data sets using either association rules or sequence mining or cluster analysis. Students should work with a dataset of their choice, e.g. related to their research topics, MS project or simply their own areas of interest.
+
+Work with teams of 2 to 3 people. Preferably, please stay with the same teams as those for your previous assignment. Collect a suitable large dataset of your choice from any online repository, e.g. UCI, Kaggle or use a dataset from your own research project etc. using any other sources. The choice is yours. Use any suitable implementation software, e.g. WEKA, PyTorch. Study the related documentation from the respective materials provided in the course, as well as from the websites of the respective software. 
+
+On the dataset, execute any descriptive data mining technique, i.e. association rule mining or sequence mining or clustering using any algorithm, e.g. Apriori / GSP / k-means. If you implement multiple techniques, one followed by another on the same dataset, that is fine if you want to use this for your analysis. That is your choice. If needed, you should convert the format of your dataset, e.g. nominal to binary filtering for converting categorical data into numerical, discretization techniques for converting numerical data to categorical etc. This depends on the data format needed by the respective algorithm. If you have already done this conversion in the assignment on data preprocessing, you can use the converted data. You should aim to achieve robustness and generalization in the mining, e.g. by altering seeds in the algorithm. Also, you must modify the concerned parameters, e.g. confidence and support for association rules, the value of k for k-means etc. to get good results. Execute at least 3 different combinations of parameters and present the experimental results accordingly. Observe the experimental results and draw useful conclusions from the data. Please do not execute predictive data mining techniques here, e.g. classification and regression. This assignment is for descriptive data mining only.
+
+Please make slides as outputs of your work in this assignment and upload them on Canvas. There should be minimum 7, maximum 15 slides. The slides should include:
+
+The dataset with a short explanation along with the goals of your analysis, i.e. what you are trying to learn (3 points)
+Mention of the descriptive data mining technique and algorithm with justification, e.g. sequence mining because you working with DNA data etc. (5 points) 
+Execution of the experiments with this algorithm, using at least 3 distinct combinations of parameters: Show inputs & outputs (15 points)
+Conclusions drawn from all the observations with the descriptive data mining technique (5 points)
+Any references used including data sources, software tools, text book etc. (2 points)
+Please turn in the slides on the due date. Slides should be uploaded on Canvas individually by each student, even though students are expected to work in groups.
