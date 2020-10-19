@@ -1,2 +1,9 @@
+10/19
 
+Decided on k-means clustering for wine dataset. 
+
+Possible issues:
+  -Heriarchical relationships in location feature vectors. 
+ 
+ SI
 
