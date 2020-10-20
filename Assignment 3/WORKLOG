@@ -1,2 +1,22 @@
+10/20
 
+Decided on k-means clustering for wine dataset. 
+
+General Steps:
+
+Import data (steve) 
+clean ()
+Feature scaling (min-max since were working in euclidean distance based algo) (steve)
+
+Set train set, test set and validation set (ensure that our algorithm is better than random assignment) [50-25-25] (thomas)
+
+Determine optimal number of K based off of SSE error using the elbow method: (murak)
+
+Execute kmeans with optimal k, and go over findings. 
+
+Summarize 
+
+****We CAN also do PCA upstream from clustering to help with computations**** 
+
+....develope pipeline for this ?
 
