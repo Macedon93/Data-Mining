@@ -19,4 +19,8 @@ Summarize
 ****We CAN also do PCA upstream from clustering to help with computations**** 
 
 ....develope pipeline for this ?
+-----
 
+10/26/20
+New data set uploaded, 
+Steps: Check for null, drop feature vectors (perhaps), k elbow for prime # of clusters, then run k means. 
