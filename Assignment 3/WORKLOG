@@ -24,3 +24,5 @@ Summarize
 10/26/20
 New data set uploaded, 
 Steps: Check for null, drop feature vectors (perhaps), k elbow for prime # of clusters, then run k means. 
+
+DATASET LINK: https://www.kaggle.com/flyingwombat/us-news-and-world-reports-college-data
