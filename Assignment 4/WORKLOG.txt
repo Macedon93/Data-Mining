@@ -1,0 +1,1 @@
+Assignment 4 entails predictive datamining. We can do Lasso/Ridge regression for prediction, or another form of multivariate regression. 
