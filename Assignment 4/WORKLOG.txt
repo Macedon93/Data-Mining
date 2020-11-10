@@ -1,1 +1,19 @@
-Assignment 4 entails predictive datamining. We can do Lasso/Ridge regression for prediction, or another form of multivariate regression. 
+Assignment 4 entails predictive datamining. We can do Lasso/Ridge regression for prediction, or another 
+form of multivariate regression. 
+
+Lasso Regression  also functions as feature selection 
+
+Lambda selection via cross validation (parameter to be manipulated for assignment) RMSE 
+
+Predicition can be for failure rate of x such as risk of default (Depends on the dataset)
+=========================================================================================
+
+Credit card default. (0) 
+
+Use Lasso regression to determine risk of default based on specific feature vectors, lasso will show us what inputs 
+a user would need to give in order to infer an accurate predicition. This is very beneficial and unlike multivariate regression,
+allows us to pinpoint productive and meaningful user inputs.
+
+Lasso will give us inference and operate as feature selection since it can shrink coefficients down to 0.
+
+Lambda will be manipulated and MSE/RMSE etc will be used as loss f(x)'s to determine difference in predictive accuracy. 
