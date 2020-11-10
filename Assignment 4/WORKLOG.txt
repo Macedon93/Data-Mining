@@ -17,3 +17,13 @@ allows us to pinpoint productive and meaningful user inputs.
 Lasso will give us inference and operate as feature selection since it can shrink coefficients down to 0.
 
 Lambda will be manipulated and MSE/RMSE etc will be used as loss f(x)'s to determine difference in predictive accuracy. 
+
+Datasetimport
+Preprocessing 
+Formation of pipeline to incorporate polynomial features and lasso prior to scaling
+Scaling 
+Splitting training/Test sets
+Fitting Lasso 
+Alternating lamda 
+Using best lambda for final model with user inputs
+3 different predictions based on user inputs. 
