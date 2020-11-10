@@ -27,3 +27,14 @@ Fitting Lasso
 Alternating lamda 
 Using best lambda for final model with user inputs
 3 different predictions based on user inputs. 
+
+Datasetimport S
+Preprocessing S
+Formation of pipeline to incorporate polynomial features and lasso prior to scaling S
+Scaling T 
+    T ? 
+Splitting training/Test sets T 
+Fitting Lasso M
+Alternating lamda M 
+Using best lambda for final model with user inputs
+3 different predictions based on user inputs. User inputs ?
