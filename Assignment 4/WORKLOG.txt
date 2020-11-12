@@ -1,3 +1,6 @@
+
+DATASET LINK: https://www.kaggle.com/uciml/default-of-credit-card-clients-dataset
+
 Assignment 4 entails predictive datamining. We can do Lasso/Ridge regression for prediction, or another 
 form of multivariate regression. 
 
