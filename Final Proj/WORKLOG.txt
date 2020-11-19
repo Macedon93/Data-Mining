@@ -1,0 +1,29 @@
+Final Projects deliverables 
+
+Need project topic relevant lit, and suitable dataset.
+relevant literature will be 
+-text book 
+-papers on regression techniques 
+-mathematical techniques
+-powerpoints that i have downloaded 
+
+Compare  >>p regression models to one another.  Polynomial Regression , vs MARS, vs LASSO vs Ridge. MSE, prediction accuracy as the core metric. Throw simple regression into the mix as well to show how bad it performs in high dimensional multifeatured datasets, this will give justification to choosing the other regression models in the first place. 
+
+Standardize varaibles such as training sets and seeds, 4 different types of regression.
+
+Summarized Goal of Research Proj:
+
+Research and implement various regression techniques for predictive data mining and compare their performance. 
+
+--------------------------------------------------------------------
+find datasets for final project 
+find what models we are going to be using
+overview of regression in notes. compare how many regression models?
+
+We will be analyzing the perfomance of these regression models against one another. We will base this performance off of prediction MSE averages using 5-10 fold CV. 
+
+Start off with original dataset, we seed the dataset to have a normal set. 
+We also will normalize another dataset. 
+We will 
+
+-Steve
